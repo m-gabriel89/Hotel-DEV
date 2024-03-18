@@ -7,7 +7,7 @@
   header{
     min-height: 400px;
     color: aquamarine;
-    background: url("src/img/praia.jpg");
+    background: url("./img/praia.jpg");
     background-repeat: no-repeat ;
     background-position: center;
     background-size: cover;
