@@ -1,5 +1,5 @@
 # HOTEL DEV
-ESSE É UM SITE FEITO POR MIM
+Um site feito por mim, Gabriel.
 # QUAL OBJETIVO?
 Tem como objetivo o usuário utilizar como um site de hospedagem em hoteis de diversos locais pelo mundo!
 # O QUE FOI UTILIZADO?
